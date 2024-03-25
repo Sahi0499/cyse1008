@@ -1,5 +1,9 @@
 {
   "projects": {
+<<<<<<< HEAD
     "default": "cyse1008-ab85f"
+=======
+    "default": "cyse1008-c8b6f"
+>>>>>>> feature/assignment3
   }
 }
